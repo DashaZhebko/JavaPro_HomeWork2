@@ -3,6 +3,6 @@ public class HomeWork2 {
         Car car = new Car();
         car.start();
 
-        Employee employee = new Employee("Daryna Zhebko", "manager", "pol@gmail.com", 21);
+        Employee employee = new Employee("Max Pavlov", "manager", "maxPvl@gmail.com", 21);
     }
 }
